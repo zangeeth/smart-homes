@@ -43,17 +43,17 @@
 <!-- overlayScrollbars -->
 <script src="plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
 <!-- AdminLTE App -->
-<script src="dist/js/adminlte.js"></script>
+<script src="js/adminlte.js"></script>
 <!-- AdminLTE for demo purposes -->
-<!--<script src="dist/js/demo.js"></script>-->
+<!--<script src="js/demo.js"></script>-->
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-<script src="dist/js/pages/dashboard.js"></script>
+<script src="js/dashboard.js"></script>
 <!-- AdminLTE -->
-<script src="dist/js/adminlte.js"></script>
+<script src="js/adminlte.js"></script>
 
 <!-- Page specific script -->
 <!-- AdminLTE App -->
-<script src="dist/js/adminlte.min.js"></script>
+<script src="js/adminlte.min.js"></script>
 <!-- FLOT CHARTS -->
 <script src="plugins/flot/jquery.flot.js"></script>
 <!-- FLOT RESIZE PLUGIN - allows the chart to redraw when the window is resized -->
