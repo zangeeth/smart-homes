@@ -1,9 +1,9 @@
 <?php
 //MySQL Object-Oriented
 $servername = "localhost:3306";
-$username = "sangeeth_esp_user";
-$password = "&-2A4IsKSTC{XA5ZB[{mLQR]";
-$dbname = "sangeeth_esp";
+$username = "user_name";
+$password = "password";
+$dbname = "database_name";
 
 // Create connection
 global $con;

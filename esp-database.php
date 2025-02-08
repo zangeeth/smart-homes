@@ -1,11 +1,11 @@
 <?php
     $servername = "localhost";
     // Your Database name
-    $dbname = "sangeeth_esp";
+    $dbname = "database_name";
     // Your Database user
-    $username = "sangeeth_esp_user";
+    $username = "user_name";
     // Your Database user password
-    $password = "&-2A4IsKSTC{XA5ZB[{mLQR]";
+    $password = "password";
 
     function createOutput($name, $board, $gpio, $state) {
         global $servername, $username, $password, $dbname;
