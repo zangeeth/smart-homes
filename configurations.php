@@ -66,7 +66,7 @@ include("functions.php");
           </div>
         </div>
         <div class="card-body">
-<link rel="stylesheet" type="text/css" href="esp-style2.css">
+<link rel="stylesheet" type="text/css" href="css/esp-style2.css">
 <?php
     //include_once('esp-database.php');
 ?>
